@@ -7,6 +7,7 @@
 <body>
 
 <h1>ini adalah contoh</h1>
+<div>ini adalah div</div>
 <table>
 	<th>
 	<tr>
