@@ -4,54 +4,7 @@
 <meta charset="ISO-8859-1">
 <title>HTML</title>
 </head>
-	<th>sdfsdfsdf
-	<tr>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-<body>
-	<th>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-	<th>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-<table>
-<table>
-	<th>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-	</th>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-			<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-		<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
+
 </table>
 
 </body>
