@@ -6,8 +6,15 @@
 </head>
 <body>
 
+<address>Ini adalah address</address>
 <h1>ini adalah contoh</h1>
 <div>ini adalah div</div>
+
+<div>123</div>
+<div>123</div>
+<div>123</div>
+<div>123</div>
+<div>123</div>
 <table>
 	<th>
 	<tr>
