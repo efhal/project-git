@@ -5,8 +5,6 @@
 <title>HTML</title>
 </head>
 
-</table>
-
 </body>
   </body>
 </html>
