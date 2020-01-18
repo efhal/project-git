@@ -20,6 +20,8 @@
 		<td>Alamat</td>
 		<td>Asal</td>
 	</tr>
+			<td>Alamat</td>
+		<td>Asal</td>
 	</tr>
 		<tr>
 		<td>No</td>
