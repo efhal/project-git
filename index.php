@@ -27,6 +27,7 @@
 		<td>Asal</td>
 	</tr>
 <table>
+<table>
 	<th>
 	<tr>
 		<td>No</td>
