@@ -1,49 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>HTML</title>
-</head>
-<body>
-<audio src=""></audio>
-<audio src=""></audio>
-<audio src=""></audio>
-<audio src=""></audio>
-
-<audio src=""></audio>
-<audio src=""></audio>
-
-<address>Ini adalah address</address>
-<h1>ini adalah contoh</h1>
-<div>ini adalah div</div>
-sdfsd
-<div>123</div>
-<div>123</div>
-<div>123</div>
-<div>123</div>
-<div>123</div>
-<table>
-	<th>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-	</th>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-	</tr>
-		<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-</table>
-</body>
-</html>
+- Test 1
+- Test 2
+- Test 3
+- Test empat
+- Test lima
+- Test enam
+- Test tujuh
+- Test 4
+- Test 5
+- Test 6
+- Test 7
+- Test 8
