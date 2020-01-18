@@ -5,16 +5,6 @@
 <title>HTML</title>
 </head>
 <body>
-<bgsound>
-<bgsound>
-<bgsound>
-<bgsound>
-<bgsound>
-<bgsound>
-<audio src=""></audio>
-<audio src=""></audio>
-<audio src=""></audio>
-<audio src=""></audio>
 
 <audio src=""></audio>
 <audio src=""></audio>
