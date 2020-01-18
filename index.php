@@ -5,10 +5,16 @@
 <title>HTML</title>
 </head>
 <body>
-
-
-
+<h1>ini adalah contoh</h1>
 <table>
+	<th>
+	<tr>
+		<td>No</td>
+		<td>Nama</td>
+		<td>Alamat</td>
+		<td>Asal</td>
+	</tr>
+	</th>
 	<tr>
 		<td>No</td>
 		<td>Nama</td>
