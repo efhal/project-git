@@ -5,6 +5,8 @@
 <title>HTML</title>
 </head>
 <div>asdasd</div>
+
+  <table></table>
 </body>
   </body>
 </html>
