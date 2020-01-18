@@ -5,6 +5,7 @@
 <title>HTML</title>
 </head>
 <body>
+
 <h1>ini adalah contoh</h1>
 <table>
 	<th>
@@ -21,11 +22,6 @@
 		<td>Alamat</td>
 		<td>Asal</td>
 	</tr>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
 	</tr>
 		<tr>
 		<td>No</td>
