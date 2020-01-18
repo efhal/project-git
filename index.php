@@ -5,7 +5,12 @@
 <title>HTML</title>
 </head>
 <body>
-
+<bgsound>
+<bgsound>
+<bgsound>
+<bgsound>
+<bgsound>
+<bgsound>
 <address>Ini adalah address</address>
 <h1>ini adalah contoh</h1>
 <div>ini adalah div</div>
