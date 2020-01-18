@@ -15,18 +15,6 @@
 		<td>Alamat</td>
 		<td>Asal</td>
 	</tr>
-	<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
-		<tr>
-		<td>No</td>
-		<td>Nama</td>
-		<td>Alamat</td>
-		<td>Asal</td>
-	</tr>
 </table>
 </body>
 </html>
